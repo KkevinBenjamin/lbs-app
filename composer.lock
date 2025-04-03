@@ -20,13 +20,7 @@
                 "reference": "866551da34e9a618e64a819ee1e01c20d8a588ba",
                 "shasum": ""
             },
-            // "dist": {
-            //     "type": "zip",
-            //     "url": "https://api.github.com/repos/brick/math/zipball/866551da34e9a618e64a819ee1e01c20d8a588ba",
-            //     "reference": "866551da34e9a618e64a819ee1e01c20d8a588ba",
-            //     "shasum": ""
-            // },
-
+           
             "require": {
                 "php": "^8.1"
             },
